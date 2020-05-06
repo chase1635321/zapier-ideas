@@ -4,6 +4,8 @@ Ideas for zapier automation things
 ## General
 - Unify all notifications to a single interface
 - Automate all the phil club stuff
+- Certain calendar events notify with text
+- Create cool custom interface tracks github commits, hours spent, etc. Can add goals and mark them complete. Creates monthly pdf summary of sucesses/failures
 
 ## Lighting
 - Change room light color based on unread notification type
